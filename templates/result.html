@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Image Generator</title>
+</head>
+<body>
+    <h1>Generated Image</h1>
+    {% if result_url %}
+        <img src="{{ result_url }}" alt="Generated Image">
+    {% else %}
+        <p>Sorry, there was an error generating the image.</p>
+    {% endif %}
+    <a href="/">Back</a>
+</body>
+</html>
