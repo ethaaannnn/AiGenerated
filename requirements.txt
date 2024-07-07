@@ -18,4 +18,4 @@ invisible-watermark>=0.1.5
 streamlit-drawable-canvas==0.8.0
 flask
 requests
-python-dotenv.
+python-dotenv
