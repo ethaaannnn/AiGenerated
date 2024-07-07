@@ -1,5 +1,7 @@
+# requirements.txt
+
 albumentations==0.4.3
-opencv-python
+opencv-python==4.5.3
 pudb==2019.2
 imageio==2.9.0
 imageio-ffmpeg==0.4.2
@@ -16,11 +18,10 @@ gradio==3.13.2
 kornia==0.6
 invisible-watermark>=0.1.5
 streamlit-drawable-canvas==0.8.0
-flask
-requests
-python-dotenv
+flask==2.0.1
+requests==2.26.0
+python-dotenv==0.19.1
 scikit-image==0.18.3
 numpy==1.21.0
 matplotlib==3.4.2
-opencv-python==4.5.3
 pillow==8.3.1
