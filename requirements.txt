@@ -19,3 +19,9 @@ streamlit-drawable-canvas==0.8.0
 flask
 requests
 python-dotenv
+# requirements.txt
+scikit-image==0.18.3
+numpy==1.21.0
+matplotlib==3.4.2
+opencv-python==4.5.3
+pillow==8.3.1
